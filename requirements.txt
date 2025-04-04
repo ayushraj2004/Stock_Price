@@ -1,4 +1,7 @@
-﻿aiohappyeyeballs==2.4.3
+pip
+setuptools
+wheel
+aiohappyeyeballs==2.4.3
 aiohttp==3.10.8
 aiohttp-retry==2.8.3
 aiosignal==1.3.1

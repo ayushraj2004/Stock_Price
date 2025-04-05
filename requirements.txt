@@ -172,4 +172,10 @@ wrapt==1.16.0
 yarl==1.13.1
 yfinance==0.2.55
 Flask
+numpy
+pandas
+matplotlib
+scikit-learn
+yfinance
 gunicorn
+
